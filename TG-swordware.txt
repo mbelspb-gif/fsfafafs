@@ -1,5 +1,5 @@
 #profile-update-interval: 1
-#profile-title: 🏳️ Swordware V3 (Новые сервера)
+#profile-title: 🏳️ Swordware V3.1 (Новые сервера)
 #profile-web-page-url: https://t.me/swordware
 #support-url: https://t.me/luckyqwertysay
 #announce: 🌟 Swordware - всегда бесплатный!Скорость до 1гбит/с!!! 🚀 спонсор-iqoo_techp   👤 by @luckyqwertysay • 👥 tg @swordware🏳️новые сервера🏳️
