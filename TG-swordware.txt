@@ -4,6 +4,7 @@
 #support-url: https://t.me/luckyqwertysay
 #announce: 🌟 ТЕХНИЧЕСКИЙ ПЕРЕРЫВ  ТЕХНИЧЕСКИЙ ПЕРЕРЫВ ТЕХНИЧЕСКИЙ ПЕРЕРЫВ🚀 спонсор-iqoo_techp   👤 by @luckyqwertysay • 👥 tg @swordware🏳️ ТЕХНИЧЕСКИЙ ПЕРЕРЫВ
 #subscription-userinfo: upload=0; download=0; total=0; expire=255556057600
+vless://75da9ef9-6cb3-4552-89e2-7d42c70cdae4@wai.kaguya.sbs:443?security=reality&encryption=none&pbk=AFGYSgtCvJ8IGvzrj7Yhc7hX1HHuhh9aAXqxd11wW24&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=wai.kaguya.sbs&sid=f516ec3a856e1999#%F0%9F%87%A9%F0%9F%87%AA%D0%94%D0%BB%D1%8F+%D1%82%D0%B3
 vless://50e06d85-75b2-4b9b-9f0a-f2ae51cf912d@51.250.109.64:443?security=reality&encryption=none&pbk=XSyv5Fi_gW72GREh-PyGjfNfN4_Zyuuq6A-klKEU2Hc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru#%F0%9F%87%B7%F0%9F%87%BA+%D0%91%D0%B5%D0%BB%D1%8B%D0%B9+%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA
 vless://50e06d85-75b2-4b9b-9f0a-f2ae51cf912d@88.216.223.142:8443?security=reality&encryption=none&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%F0%9F%87%B8%F0%9F%87%AA+Sweden
 vless://50e06d85-75b2-4b9b-9f0a-f2ae51cf912d@88.216.223.142:8443?security=reality&encryption=none&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%F0%9F%87%B8%F0%9F%87%AA+Sweden
